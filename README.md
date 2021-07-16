@@ -1,2 +1,2 @@
 # EventsApp
- EventsApp Project
+ EventsApp Project in .Net Core 5
